@@ -1,0 +1,29 @@
+.form{
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+}
+
+.form form{
+    width: 80%;
+    background-color: #f2f2f2;
+    border-radius: 20px;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0,0,0,0.4);
+}
+
+.form form h2{
+    font-family: "Prata", serif;
+    font-size: 32px;
+    color: 212121;
+    margin-bottom: 24px;
+}
+
+.form form label{
+    font-family: "Montserrat", sans-serif;
+    display: block;
+    font-size: 18px;
+    color: 212121;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
